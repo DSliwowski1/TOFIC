@@ -11,6 +11,3 @@ https://www.youtube.com/watch?v=RXpTZvqbFl0
 * **Patryk Szelewski** - [GitHub](https://github.com/pszelew)
 * **Daniel Ślwiowski** - [GitHub](https://github.com/DSliwowski1)
 * **Jakub Tomaszewski** - [GitHub](https://github.com/TomaszewskiJakub)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
