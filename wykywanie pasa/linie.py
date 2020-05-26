@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import math
 
-#def ROI(img):
+def ROI(img):
     height, width = img.shape
     mask = np.zeros_like(img)
 
