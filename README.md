@@ -6,21 +6,11 @@ Głównym założeniem projektu było skonstruowanie autonomicznie przemieszczaj
 
 https://www.youtube.com/watch?v=RXpTZvqbFl0
 
-### Prerequisites
-
 ## Autorzy
 
-* **Patryk Szelewski** - [PurpleBooth](https://github.com/pszelew)
+* **Patryk Szelewski** - [GitHub](https://github.com/pszelew)
+* **Daniel Ślwiowski** - [GitHub](https://github.com/DSliwowski1)
+* **Jakub Tomaszewski** - [GitHub](https://github.com/TomaszewskiJakub)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
