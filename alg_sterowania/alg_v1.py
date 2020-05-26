@@ -3,48 +3,6 @@ import random
 from pololu_drv8835_rpi import motors, MAX_SPEED
 from servo import *
 from linie import *
-
-#def correct(angle, params):
-#    if angle<0 and len(params)==1:
-#        return -10
-#    if angle>0 and len(params)==1:
-#        return 10
-#    return 0
-    
-#def get_angle(frame):
-#    #print(frame.shape)
-#    height, width, _ = frame.shape
-
-#    lines = detect_lane(frame)
-#    img_w_lines = draw_lines(frame, lines)
-
-#    params = get_s_i(lines)
-#    if len(params) == 0:
-#        return 0, params
-#    if len(params)  == 1:
-#        #print(params[1])
-#        return 0, params
-#    if len(params) == 2:
-#        y1 = y2 = int(height/4*3)
-#        x1 = int((y1 - params[0][1])/params[0][0])
-#        x2 = int((y2 - params[1][1])/params[1][0])
-#        #print(x1, y1, x2, y2)
-#        cv2.line(img_w_lines, (x1, y1), (x2,y2), (0, 0, 255), 3)
-#
-#        xmidl = int((x1+x2)/2)
-#        xmidc = int(width/2)
-#        
-#        d = xmidl - xmidc
-#        h = height - y1
-#        
-#        #cv2.imshow("Lines", img_w_lines)
-#        
-#        angle = math.atan2(d, h)
-
- #       angle = 180 * angle / 3.14
-        #print(angle)
-#        return angle, params
-
     
 def get_angle(frame):
     #print(frame.shape)
