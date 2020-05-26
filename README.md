@@ -1,3 +1,7 @@
+
+![TOFIC](/pics/main.png)
+
+
 # Track Observing Fully Independent Car TOFIC
 
 Głównym założeniem projektu było skonstruowanie autonomicznie przemieszczającego się po makiecie ulicy samochodu. Zakładało się implementację wykrywania pasa ruchu którym porusza się pojazd oraz algorytm sterowania mający za zadanie pozostanie na nim. Ponadto przewidywało się zaprojektowanie oraz wdrożenie algorytmów identyfikacji oznaczeń drogowych takich jak znak "STOP" oraz sygnalizacja świetlna.
