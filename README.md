@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=RXpTZvqbFl0
 ## Autorzy
 
 * **Patryk Szelewski** - [GitHub](https://github.com/pszelew)
-* **Daniel Ślwiowski** - [GitHub](https://github.com/DSliwowski1)
+* **Daniel Śliwowski** - [GitHub](https://github.com/DSliwowski1)
 * **Jakub Tomaszewski** - [GitHub](https://github.com/TomaszewskiJakub)
 ## Co dalej?
 * Algorytm wykrywania pasa ruchu w oparciu o Deep Learning
